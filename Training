@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>
+</head>
+<body bgcolor="black">
+<iframe width="100px" height="150px" align="center">
+	<h2> E.g </h2>
+</iframe><br>
+<style>
+.container{
+	background-color: grey;
+	border-radius: 100px;
+}
+<header>
+	<div class="container">
+		"Mimpi adalah kunci menaklukan dunia"
+	</div>
+</header>
+</style>
+</body>
+</html>
